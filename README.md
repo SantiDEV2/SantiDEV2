@@ -12,11 +12,11 @@
 
 ###
 
-<h5 align="center">🌱 I’m currently learning ThreeJS and OpenGL<br>🎓 Studing Game Development on Amerike <br>⚡Passionate about creating unique things</h5>
+<h3 align="center">🌱 I’m currently learning ThreeJS and OpenGL<br>🎓 Studing Game Development on Amerike <br>⚡Passionate about creating unique things</h5>
 
 ###
 
-<h4 align="center">📄 Languages And Tools</h4>
+<h2 align="center">📄 Languages And Tools</h4>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h4 align="center">📫 Contact Me!</h4>
+<h2 align="center">📫 Contact Me!</h4>
 
 ###
 
