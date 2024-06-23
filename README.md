@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="217" src="https://cdn.discordapp.com/attachments/791128242194481153/1245459758954184805/1.jpg?ex=6658d44a&is=665782ca&hm=5acea4d76b25e6cf381297ab43d4e47c4dd7dc89d3b8e5154877ad4a32b8e06c&"  />
+  <img height="217" src="https://cdn.discordapp.com/attachments/791128242194481153/1245459758954184805/1.jpg?ex=6679c9ca&is=6678784a&hm=17d636c4b16344c3e3bc4ea90ae10e141d5a4ff7abf7fe5d8b1dfd2e19155b25&"  />
 </div>
 
 ###
