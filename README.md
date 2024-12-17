@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="217" src="https://cdn.discordapp.com/attachments/791128242194481153/1245459758954184805/1.jpg?ex=66b7178a&is=66b5c60a&hm=39c48e5ff6d8e41b7c6a4bd059d4eaba350259057078ccc1d5853e2632efbfb7&"  />
+  <img height="217" src="https://drive.google.com/uc?id=1h8Dglw2TMkLe5A4xonjwtvWwo7KO1dC7" alt="Imagen de Fondo"  />
 </div>
 
 ###
